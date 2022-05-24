@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @nikolai956
+- 👀 I’m interested in *coding* and *physics*
+- 🌱 I’m currently learning c++
+- 💞️ I’m looking to collaborate on new projects to gain more experience
+- 📫 How to reach me ~> parmidazanjani456@gmail.com
